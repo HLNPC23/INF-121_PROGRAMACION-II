@@ -1,3 +1,8 @@
+/**
+ * Clase JuegoAdivinaImpar
+ * @author Helen Perez Condori
+ * @version 1.0 17/09/2025
+ */
 package practica_3;
 
 import java.util.Random;
@@ -58,3 +63,4 @@ public class JuegoAdivinaImpar extends JuegoAdivinaNumero {
     
     
 }
+
