@@ -1,3 +1,8 @@
+/**
+ * Laboratorio 3
+ * @author Helen Perez Condori
+ * @version 1.0 17/09/2025
+ */
 import random
 from multimethod import multimethod
 
@@ -176,4 +181,5 @@ class Aplicacion:
 
 if __name__ == "__main__":
     app = Aplicacion()
+
     app.main()
