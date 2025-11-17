@@ -9,8 +9,7 @@ public class Linea {
     public Linea(String color) {
         this.color = color;
         this.filaPersonas = new ArrayList<Persona>();
-        this.cabinas = new ArrayList<Cabina>();
-        
+        this.cabinas = new ArrayList<Cabina>();        
     }
     public void agregarPersona(Persona p){
         this.filaPersonas.add(p);
@@ -18,9 +17,5 @@ public class Linea {
     public void agregarCabina(Cabina nroCab)
     {
         this.cabinas.add(nroCab);
-    }
-    
-    
-    
-    
+    }   
 }

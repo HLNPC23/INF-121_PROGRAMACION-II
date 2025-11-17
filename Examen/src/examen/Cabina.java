@@ -1,7 +1,5 @@
 package examen;
-
 import java.util.ArrayList;
-
 public class Cabina {
     private int nroCabina;
     private ArrayList<Persona>personasAbordo;

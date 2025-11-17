@@ -12,7 +12,7 @@ public class MiTeleferico {
     }
     public void agregarPersonaFila(Persona p, String linea)
     {
-        this.lineas.add();
+        
     }
     public void agregarCabina(String linea){
     }
